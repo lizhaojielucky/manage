@@ -1,2 +1,2 @@
 # manage
-iview laravel 小程序
+iview 组件
